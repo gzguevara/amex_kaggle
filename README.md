@@ -12,4 +12,4 @@ This repository contains the three notebooks, which I used throughout the compet
 Here is the [link][amex] to the competition.
 
 
-[amex]:[https://www.kaggle.com/competitions/amex-default-prediction]
+[amex]: https://www.kaggle.com/competitions/amex-default-prediction
